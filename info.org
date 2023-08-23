@@ -1,0 +1,8 @@
+#+TITLE: Notas del proyecto
+#+STARTUP: content indent
+
+
+* Enlaces
+
+** Llamada de links a Google.Colab desde Github
+https://colab.research.google.com/github/
